@@ -7,7 +7,7 @@ pickup time, geo-coordinates, number of passengers, and several other variables 
 ## Assignment 2 Resources
 **Project Notebook:** https://colab.research.google.com/drive/1YaL8bF2OtsO35PggcYbS1KKqOO5fmhIc <br>
 **NYC Taxi Dataset:** https://www.kaggle.com/c/nyc-taxi-trip-duration <br>
-**Assignment 2 Package installation Process on CMD/Anaconda Prompt:** <br>
+**Assignment 2 package installation process on CMD/Anaconda Prompt:** <br>
 ```
 > conda create -n dve_assignment2_env
 > condata activate dve_assignment2_env
