@@ -5,7 +5,7 @@
 - The dataset is one released by the NYC Taxi and Limousine Commission (TLC), which includes pickup time, geo-coordinates, number of passengers, and several other variables for 1.5 million trips between 2016-01-01 and 2016-06-30. For this analysis we only explore the train dataset
 
 ## Assignment 2 Resources
-**Assignment 2 Notebook:** https://colab.research.google.com/drive/1YaL8bF2OtsO35PggcYbS1KKqOO5fmhIc <br>
+**Assignment 2 Notebook:** https://colab.research.google.com/drive/1DHDqmhSFczYOZpvu4GhNQHly3-rYQlwj <br>
 **NYC Taxi Dataset:** https://www.kaggle.com/c/nyc-taxi-trip-duration <br>
 **Assignment 2 package installation process on CMD/Anaconda Prompt:** <br>
 ```
